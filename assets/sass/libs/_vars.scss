@@ -1,0 +1,53 @@
+// Misc.
+	$misc: (
+		z-index-base:				10000,
+		gallery-lightbox-opacity:	0.875
+	);
+
+// Duration.
+	$duration: (
+		transition:					0.25s,
+		gallery-lightbox-fadein:	0.5s
+	);
+
+// Size.
+	$size: (
+		border-radius:			0.325rem,
+		element-height:			3rem,
+		element-margin:			2rem,
+		header-width:			30rem,
+		subheader-width:		22rem,
+		content-width:			60rem,
+		line-width:				2px,
+		form-gutter:			2rem,
+		gallery-gutter:			1.25rem,
+	);
+
+// Font.
+	$font: (
+		family:					('Montserrat Black', Helvetica, sans-serif),
+		family-fixed:			('Courier New', monospace),
+		family-heading:			('Raleway', Helvetica, sans-serif),
+		weight:					300,
+		weight-bold:			600,
+		weight-extrabold:		700,
+		weight-heading:			800,
+		weight-heading-light:	600,
+		kerning:				0.0375em,
+		kerning-heading:		0.175em,
+		kerning-heading-alt:	-0.05em
+	);
+
+// Palette.
+	$palette: (
+		bg:						#444444,
+		fg:						#ffffff,
+		fg-bold:				#ffffff,
+		fg-light:				rgba(255,255,255,0.5),
+		border:					rgba(144,144,144,0.25),
+		border-bg:				rgba(144,144,144,0.1),
+		accent:					#5E5FF4,
+		accent-border:			desaturate(#dee58d, 30),
+		accent-alt:				desaturate(#dee58d, 20),
+		accent-bg:				transparentize(#dee58d, 0.75)
+	);
