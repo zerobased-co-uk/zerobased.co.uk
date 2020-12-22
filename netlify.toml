@@ -3,3 +3,4 @@ package = "@netlify/plugin-sitemap"
 
 [build]
 command = "npm run build"
+publish = "src/"

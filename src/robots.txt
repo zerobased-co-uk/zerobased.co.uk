@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: *
+Disallow:
+
+Sitemap: https://zerobased.co.uk/sitemap.xml
+User-agent: *
+Disallow:
