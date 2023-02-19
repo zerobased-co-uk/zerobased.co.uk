@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@netlify/plugin-sitemap": "^0.6.1",
+    "@netlify/plugin-sitemap": "^0.8.1",
     "sass": "^1.30.0"
   }
 }
